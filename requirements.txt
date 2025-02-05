@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+scikit-learn
+scipy  # For collaborative filtering-based recommendation
+mlflow 
+dvc 
+
+ipykernel
+
+Flask
