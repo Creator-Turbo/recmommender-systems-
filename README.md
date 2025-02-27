@@ -20,7 +20,7 @@
 
 ## Demo
 This project provides movie recommendations based on content similarity using machine learning techniques.<br>
-**Link to Demo:** [Movie-Recommender-System](#) 
+**Link to Demo:** [Movie-Recommender-System](https://recmommender-systems.onrender.com) 
 
 ## Movie-Recommender-System
 
